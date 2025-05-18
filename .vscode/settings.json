@@ -1,0 +1,21 @@
+{
+    "r.plot.useHttpgd": true,
+    "r.plot.defaults.colorTheme": "vscode",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Servers",
+            "database": "mac",
+            "username": "JG",
+            "password": "MySQL0099."
+        }
+    ],
+    "pylint.args": ["--max-line-length=120"]
+}
